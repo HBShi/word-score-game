@@ -23,23 +23,5 @@ This is a word score game.  The goal of the game is to get the most points by ma
  1. 让HTML页面更好看
  2. 清理、改善现有的JavaScript代码格式，使其有更好的性能（无用的循环，只在需要时使用递归）
  
- 
-## Guide 
- 1. 注册Github，打开项目源代码链接，https://github.com/jmatthes/word-score-game。
- 2. 点击"Fork"，拷贝一份到自己账号下。
- 3. 下载notepad或其他编辑器，打开源文件中的js文件
- 4. 理解题目需求，阅读源代码，编辑js
- 5. 打开index.html，运行测试效果
- 6. 完成开发后，上传编译后的所有文件到你的项目中，关注以下微信公众号提交你的项目链接。
-
-## Q&A
-联系我们
-1. 关注微信公众号："joinADC"。
-2. 如有问题，直接发送问题至聊天窗口，后台4小时内会有人答复。
-3. 完成任务后，将你的项目链接以：姓名_学校名字_url的格式发送到聊天窗口，即完成任务提交。逾期视为自动放弃。
-
-请在规定时间内，完成尽量多的试题，我们会在一周内择优通知进行终面。谢谢！
-
- 
 ### Thanks
 A special thanks to [WordList-JS](https://github.com/JackolanternIR/WordList-JS) for the dictionary JavaScript library.
